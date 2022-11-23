@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://launch-in-china.21cloudbox.com/cms/publish-websites-using-airtable-with-21yunbox.html">
-    <img alt="Airtable China Integrations" src="https://raw.githubusercontent.com/airtable-china/integrations/main/airtable-ar21.svg" width="280" />
+    <img alt="Airtable China Integrations" src="https://raw.githubusercontent.com/airtable-china/integrations/main/a-logo.png" width="280" />
   </a>
 </p>
 <h1 align="center">
-  Scale Airtable for China with 21YunBox
+  Scale Your Airtable Pages for China with 21YunBox
 </h1>
 
 <p align="center">
